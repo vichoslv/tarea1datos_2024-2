@@ -1,0 +1,15 @@
+Josefina Pino Monsalve
+Rol: 202373619-8
+Paralelo: 201
+Trabajo en:
+-Menu de comando en main
+-Suma y resta
+-Logica de ejecutar
+
+Vicente Silva Rios
+Rol: 202373514-0
+Paralelo: 201
+Trabajo en:
+-Funcion mover
+-Bucle
+-Logica de ejecutar
